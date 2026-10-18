@@ -2,4 +2,4 @@ def greet(name):
     return f"Hello, {name}!"
 
 if __name__ == "__main__":
-    print("Hello from GitHub Actions! Updated by Maria")
+    print("Hello from GitHub Actions! Updated by Maria on action-update")
